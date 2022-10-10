@@ -1,0 +1,15 @@
+/home/admina/Документы/C-sharp курс/module12/Unit12/obj/Debug/net6.0/Unit12.csproj.AssemblyReference.cache
+/home/admina/Документы/C-sharp курс/module12/Unit12/obj/Debug/net6.0/Unit12.GeneratedMSBuildEditorConfig.editorconfig
+/home/admina/Документы/C-sharp курс/module12/Unit12/obj/Debug/net6.0/Unit12.AssemblyInfoInputs.cache
+/home/admina/Документы/C-sharp курс/module12/Unit12/obj/Debug/net6.0/Unit12.AssemblyInfo.cs
+/home/admina/Документы/C-sharp курс/module12/Unit12/obj/Debug/net6.0/Unit12.csproj.CoreCompileInputs.cache
+/home/admina/Документы/C-sharp курс/module12/Unit12/bin/Debug/net6.0/Unit12
+/home/admina/Документы/C-sharp курс/module12/Unit12/bin/Debug/net6.0/Unit12.deps.json
+/home/admina/Документы/C-sharp курс/module12/Unit12/bin/Debug/net6.0/Unit12.runtimeconfig.json
+/home/admina/Документы/C-sharp курс/module12/Unit12/bin/Debug/net6.0/Unit12.dll
+/home/admina/Документы/C-sharp курс/module12/Unit12/bin/Debug/net6.0/Unit12.pdb
+/home/admina/Документы/C-sharp курс/module12/Unit12/obj/Debug/net6.0/Unit12.dll
+/home/admina/Документы/C-sharp курс/module12/Unit12/obj/Debug/net6.0/refint/Unit12.dll
+/home/admina/Документы/C-sharp курс/module12/Unit12/obj/Debug/net6.0/Unit12.pdb
+/home/admina/Документы/C-sharp курс/module12/Unit12/obj/Debug/net6.0/Unit12.genruntimeconfig.cache
+/home/admina/Документы/C-sharp курс/module12/Unit12/obj/Debug/net6.0/ref/Unit12.dll
